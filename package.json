@@ -1,0 +1,11 @@
+{
+  "name": "format-time-rpf",
+  "version": "1.0.0",
+  "description": "Format time e.g. '14:30:10' from Date object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evan Summers",
+  "license": "ISC"
+}
